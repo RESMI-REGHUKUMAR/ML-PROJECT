@@ -1,2 +1,2 @@
 
-My attempts to slove Machine Learning problems.
+My attempts to slove Machine Learning & Deep Learning problems.
